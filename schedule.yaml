@@ -25,34 +25,34 @@ knockout:
 
 matches:
   0:
-    main: [Team 9, Team 8, Team 3, Team 4]
+    main: [T9, T8, T3, T4]
   1:
-    main: [Team 5, Team 2, Team 1, Team 6]
+    main: [T5, T2, T1, T6]
   2:
-    main: [Team 3, Team 4, Team 7, Team 10]
+    main: [T3, T4, T7, T10]
   3:
-    main: [Team 9, Team 8, Team 5, Team 2]
+    main: [T9, T8, T5, T2]
   4:
-    main: [Team 6, Team 10, Team 1, Team 7]
+    main: [T6, T10, T1, T7]
   5:
-    main: [Team 8, Team 2, Team 4, Team 9]
+    main: [T8, T2, T4, T9]
   6:
-    main: [Team 7, Team 10, Team 5, Team 6]
+    main: [T7, T10, T5, T6]
   7:
-    main: [Team 4, Team 9, Team 3, Team 1]
+    main: [T4, T9, T3, T1]
   8:
-    main: [Team 5, Team 6, Team 8, Team 2]
+    main: [T5, T6, T8, T2]
   9:
-    main: [Team 7, Team 3, Team 10, Team 1]
+    main: [T7, T3, T10, T1]
   10:
-    main: [Team 2, Team 9, Team 5, Team 4]
+    main: [T2, T9, T5, T4]
   11:
-    main: [Team 7, Team 8, Team 6, Team 3]
+    main: [T7, T8, T6, T3]
   12:
-    main: [Team 2, Team 9, Team 1, Team 10]
+    main: [T2, T9, T1, T10]
   13:
-    main: [Team 5, Team 4, Team 6, Team 3]
+    main: [T5, T4, T6, T3]
   14:
-    main: [Team 8, Team 7, Team 10, Team 1]
+    main: [T8, T7, T10, T1]
 
 

@@ -1,22 +1,22 @@
 teams:
-  Team 1:
+  T1:
     name: Team 1
-  Team 2:
+  T2:
     name: Team 2
-  Team 3:
+  T3:
     name: Team 3
-  Team 4:
+  T4:
     name: Team 4
-  Team 5:
+  T5:
     name: Team 5
-  Team 6:
+  T6:
     name: Team 6
-  Team 7:
+  T7:
     name: Team 7
-  Team 8:
+  T8:
     name: Team 8
-  Team 9:
+  T9:
     name: Team 9
-  Team 10:
+  T10:
     name: Team 10
 
