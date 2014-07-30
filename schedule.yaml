@@ -4,14 +4,14 @@ delays: []
 
 match_periods:
   league:
-    - start_time: 2014-08-01 10:45:00 +1
-      end_time: 2014-08-01 12:15:00 +1
-      max_end_time: 2014-08-01 12:30:00 +1
+    - start_time: 2014-07-30 18:30:00 +1
+      end_time: 2014-07-30 18:50:00 +1
+      max_end_time: 2014-07-30 19:00:00 +1
       description: League period
 
   knockout:
-    - start_time: 2014-08-01 13:00:00 +1
-      end_time: 2014-08-01 14:00:00 +1
+    - start_time: 2014-07-30 19:05:00 +1
+      end_time: 2014-07-30 19:45:00 +1
       description: Knockout period
 
 knockout:
@@ -27,25 +27,25 @@ static_knockout:
   0:
     0:
       arena: main
-      start_time: 2014-08-01 13:00:00 +1
+      start_time: 2014-07-30 19:05:00 +1
       teams: [S3, S5, S8, S10]
     1:
       arena: main
-      start_time: 2014-08-01 13:12:00 +1
+      start_time: 2014-07-30 19:12:00 +1
       teams: [S4, S6, S7, S9]
   1:
     0:
       arena: main
-      start_time: 2014-08-01 13:24:00 +1
+      start_time: 2014-07-30 19:19:00 +1
       teams: [S2, '000', '002', '011']
     1:
       arena: main
-      start_time: 2014-08-01 13:36:00 +1
+      start_time: 2014-07-30 19:26:00 +1
       teams: [S1, '001', '010', '012']
   2:
     0:
       arena: main
-      start_time: 2014-08-01 13:50:00 +1
+      start_time: 2014-07-30 19:33:00 +1
       teams: ['100', '101', '110', '111']
 
 matches:
@@ -59,25 +59,5 @@ matches:
     main: [T9, T8, T5, T2]
   4:
     main: [T6, T10, T1, T7]
-  5:
-    main: [T8, T2, T4, T9]
-  6:
-    main: [T7, T10, T5, T6]
-  7:
-    main: [T4, T9, T3, T1]
-  8:
-    main: [T5, T6, T8, T2]
-  9:
-    main: [T7, T3, T10, T1]
-  10:
-    main: [T2, T9, T5, T4]
-  11:
-    main: [T7, T8, T6, T3]
-  12:
-    main: [T2, T9, T1, T10]
-  13:
-    main: [T5, T4, T6, T3]
-  14:
-    main: [T8, T7, T10, T1]
 
 
