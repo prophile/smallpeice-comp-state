@@ -11,7 +11,7 @@ match_periods:
 
   knockout:
     - start_time: 2014-07-30 19:05:00 +1
-      end_time: 2014-07-30 19:45:00 +1
+      end_time: 2014-07-30 20:00:00 +1
       description: Knockout period
 
 knockout:
@@ -45,7 +45,7 @@ static_knockout:
   2:
     0:
       arena: main
-      start_time: 2014-07-30 19:33:00 +1
+      start_time: 2014-07-30 19:42:00 +1
       teams: ['100', '101', '110', '111']
 
 matches:
