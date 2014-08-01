@@ -1,21 +1,21 @@
 teams:
-  T1:
+  T01:
     name: Team One
-  T2:
+  T02:
     name: Syntax Terror
-  T3:
+  T03:
     name: Team 3
-  T4:
+  T04:
     name: Hairy Feet
-  T5:
+  T05:
     name: Robot 5charleen
-  T6:
+  T06:
     name: T6
-  T7:
+  T07:
     name: Operation Not Come Last
-  T8:
+  T08:
     name: ∞
-  T9:
+  T09:
     name: Team Nine
   T10:
     name: Team Ten
