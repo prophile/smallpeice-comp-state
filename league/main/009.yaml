@@ -1,0 +1,11 @@
+arena_id: main
+match_number: 9
+teams:
+  T01: {disqualified: false, gold: 1, present: true, robot_moved: true, silver: 0,
+    zone: 3}
+  T03: {disqualified: false, gold: 0, present: true, robot_moved: true, silver: 1,
+    zone: 1}
+  T07: {disqualified: false, gold: 0, present: true, robot_moved: true, silver: 0,
+    zone: 0}
+  T10: {disqualified: false, gold: 0, present: true, robot_moved: true, silver: 0,
+    zone: 2}
